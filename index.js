@@ -5,7 +5,7 @@ const handleclick = () => {
     if(body.classList.contains( "light")) {
         document.querySelector('img').src = "/PortifolioProjects/assets/avatar-light.png";
     } else  {  
-        document.querySelector('img').src = "/PortifolioProjects/assets/avatar.png";
+        document.querySelector('img').src = "/PortifolioProjects/assets/Avatar.png";
     }
       
 }
